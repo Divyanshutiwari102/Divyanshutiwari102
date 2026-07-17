@@ -88,6 +88,14 @@ Java Backend Engineer • Spring Boot • Cloud • AI
 </p>
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Divyanshutiwari102/Divyanshutiwari102/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+---
 
 # 🚀 Featured Projects
 
