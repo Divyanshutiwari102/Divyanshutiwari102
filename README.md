@@ -1,3 +1,44 @@
+<!-- Animated Typing -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Divyanshu+Tiwari;Java+Backend+Engineer;Spring+Boot+Developer;AWS+Cloud+Engineer;AI+%7C+RAG+%7C+LangChain;Open+Source+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Divyanshutiwari102&label=Profile+Views&color=blue&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Divyanshutiwari102?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Divyanshutiwari102?style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Divyanshutiwari102&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshutiwari102&theme=tokyo-night"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshutiwari102&theme=tokyonight"/>
+
+</p>
 <h1 align="center">
 Hi 👋, I'm Divyanshu Tiwari
 </h1>
