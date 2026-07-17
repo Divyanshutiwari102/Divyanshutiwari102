@@ -1,43 +1,38 @@
-<!-- Animated Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Divyanshu+Tiwari;Java+Backend+Engineer;Spring+Boot+Developer;Cloud+%7C+AWS;AI+%7C+RAG+%7C+LangChain;Always+Learning+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyanshutiwari102&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-  <img src="https://img.shields.io/github/followers/Divyanshutiwari102?style=for-the-badge"/>
-</p>
-
-<h1 align="center">Hi 👋 I'm Divyanshu Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Divyanshu Tiwari</h1>
 
 <h3 align="center">
 Java Backend Engineer • Spring Boot • Cloud • AI
 </h3>
 
 <p align="center">
-<a href="https://portfolio-hai-chi.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
+  <a href="https://portfolio-hai-chi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyanshu-tiwari-42b156289/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Divyanshutiwari102">
+    <img src="https://img.shields.io/github/followers/Divyanshutiwari102?style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/u/divyanshu337/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/divyanshu-tiwari-42b156289/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/divyanshu337/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Divyanshutiwari102&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech CSE @ IILM University
-- 💻 Java Backend Developer
-- 🚀 Building scalable Spring Boot applications
-- ☁️ Exploring AWS & Cloud Native Development
-- 🤖 AI • RAG • LangChain
-- 📚 Learning System Design & Distributed Systems
+- 🎓 B.Tech Computer Science Engineering @ IILM University
+- 💻 Java Backend Developer passionate about scalable applications
+- 🚀 Building REST APIs using Spring Boot & Spring Security
+- ☁️ Learning AWS, Docker & Kubernetes
+- 🤖 Interested in AI, RAG, LangChain & LLM Applications
+- 📚 Currently studying System Design, Microservices & Distributed Systems
 
 ---
 
@@ -45,17 +40,93 @@ Java Backend Engineer • Spring Boot • Cloud • AI
 
 ```text
 ✔ Java Backend Development
-
 ✔ Spring Boot & Microservices
-
-✔ AWS Cloud
-
-✔ Docker & Kubernetes
-
 ✔ PostgreSQL
-
 ✔ Redis
-
-✔ Kafka
-
+✔ Docker
+✔ Kubernetes
+✔ AWS Cloud
 ✔ System Design
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,python,aws,docker,kubernetes,postgres,mysql,mongodb,redis,git,github,linux,idea,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyanshutiwari102&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshutiwari102&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshutiwari102&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Divyanshutiwari102&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshutiwari102&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 LinkedIn Clone
+A full-stack LinkedIn-inspired social networking platform featuring authentication, posts, user profiles, comments, and secure backend APIs.
+
+### 🔹 Adaptive RAG
+An AI-powered Retrieval-Augmented Generation platform using Spring Boot, LangChain, PostgreSQL, Redis, and vector search.
+
+### 🔹 AI Traffic Management
+A computer vision project using YOLOv8 and OpenCV for intelligent traffic monitoring and vehicle detection.
+
+---
+
+# 📚 Currently Learning
+
+- System Design
+- Kafka
+- Redis
+- Kubernetes
+- CI/CD
+- Distributed Systems
+- Cloud Native Architecture
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://portfolio-hai-chi.vercel.app/">🌐 Portfolio</a> •
+<a href="https://github.com/Divyanshutiwari102">GitHub</a> •
+<a href="https://www.linkedin.com/in/divyanshu-tiwari-42b156289/">LinkedIn</a> •
+<a href="https://leetcode.com/u/divyanshu337/">LeetCode</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.
+</p>
