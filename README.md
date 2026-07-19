@@ -76,7 +76,7 @@ Java Backend Engineer • Spring Boot • Cloud • AI
 <a href="https://portfolio-hai-chi.vercel.app/">🌐 Portfolio</a> •
 <a href="https://github.com/Divyanshutiwari102">GitHub</a> •
 <a href="https://www.linkedin.com/in/divyanshu-tiwari-42b156289/">LinkedIn</a> •
-<a href="https://leetcode.com/u/divyanshu337/">LeetCode</a>
+<a href="https://leetcode.com/u/divyanshu337/">LeetCode</a> •
 <a href="mailto:divyanshutiwari337@gmail.com">Gmail</a>
 
 ---
