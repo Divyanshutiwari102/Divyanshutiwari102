@@ -91,30 +91,6 @@ Java Backend Engineer • Spring Boot • Cloud • AI
 </picture>
 ---
 
-# 🚀 Featured Projects
-
-### 🔹 LinkedIn Clone
-A full-stack LinkedIn-inspired social networking platform featuring authentication, posts, user profiles, comments, and secure backend APIs.
-
-### 🔹 Adaptive RAG
-An AI-powered Retrieval-Augmented Generation platform using Spring Boot, LangChain, PostgreSQL, Redis, and vector search.
-
-### 🔹 AI Traffic Management
-A computer vision project using YOLOv8 and OpenCV for intelligent traffic monitoring and vehicle detection.
-
----
-
-# 📚 Currently Learning
-
-- System Design
-- Kafka
-- Redis
-- Kubernetes
-- CI/CD
-- Distributed Systems
-- Cloud Native Architecture
-
----
 
 # 🌐 Connect With Me
 
