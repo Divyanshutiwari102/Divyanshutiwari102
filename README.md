@@ -4,25 +4,6 @@
 Java Backend Engineer • Spring Boot • Cloud • AI
 </h3>
 
-<p align="center">
-  <a href="https://portfolio-hai-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/divyanshu-tiwari-42b156289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Divyanshutiwari102">
-    <img src="https://img.shields.io/github/followers/Divyanshutiwari102?style=for-the-badge" />
-  </a>
-  <a href="https://leetcode.com/u/divyanshu337/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyanshutiwari102&style=for-the-badge&color=0e75b6" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
