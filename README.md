@@ -61,8 +61,7 @@ Java Backend Engineer • Spring Boot • Cloud • AI
 
 # 📊 GitHub Stats
 
-username=Divyanshutiwari102&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshutiwari102&theme=tokyonight&hide_border=true" />
