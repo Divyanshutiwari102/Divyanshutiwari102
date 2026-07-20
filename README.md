@@ -32,18 +32,6 @@
 
 </div>
 
-<br>
-
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science student at **IILM University**, Greater Noida (Expected 2027)
-- 💻 Interned at **Bluestock Fintech** and **Code-B Solutions Pvt Ltd**
-- 🏆 Active on **LeetCode**, **HackerRank**, and **CodeChef**
-- 🌱 Currently exploring advanced data structures (Fenwick trees, segment trees with lazy propagation) and applying to SDE internships
-- ⚡ Fun fact: I build in Java/Spring Boot on the backend and love a clean, ATS-friendly LaTeX resume
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
