@@ -1,85 +1,93 @@
-# Divyanshu Tiwari's GitHub Profile README SVG
+<div align="center">
 
-This repository contains SVG files for a GitHub profile README that automatically switches between light and dark mode based on the user's system preference.
-
-## Files
-
-- `divya_light_mode.svg` - Light version of the profile card
-- `divya_dark_mode.svg` - Dark version of the profile card
-
-## Usage in GitHub README
-
-To use these in your GitHub profile README, add the following HTML to your `README.md`:
-
-```html
+<!-- Terminal-style profile card (auto-switches with GitHub's light/dark theme) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="divya_dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="divya_light_mode.svg">
-  <img src="divya_light_mode.svg" alt="Divyanshu Tiwari's Profile">
+  <source media="(prefers-color-scheme: dark)" srcset="./divya_dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divya_light_mode.svg">
+  <img alt="Divyanshu Tiwari's profile card" src="./divya_dark_mode.svg" width="850">
 </picture>
-```
 
-## Important: ASCII Art Header
+<br>
 
-These SVG files use the **exact same ASCII art header** from the reference examples you provided. The header has not been modified - it preserves the original decorative ASCII art design.
+<!-- Typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+IILM+University;Software+Engineer+%7C+Full-Stack+Developer;Building+cool+things+with+code+%E2%9C%A8" alt="Typing SVG">
+</a>
 
-## Information Updated from Your Resume:
-The SVG files have been updated with your actual information:
+<br><br>
 
-1. **Email** - Your email address from the resume
-2. **Host** - Your institution/company from the resume (appears in "Host" field)
-3. **Location** - Your location from the resume (appears in GitHub Stats section)
+<!-- Social links -->
+<a href="https://portfolio-hai-chi.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://linkedin.com/in/divyanshu-tiwari-42b156289" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:divyanshutiwari337@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://github.com/Divyanshutiwari102" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-## Current Information (updated from your resume):
-- **Username**: divyanshutiwari102@user
-- **OS**: Windows 11 · Linux · Android
-- **Host**: IILM University 
-- **Host Kernel**: Software Developer (updated as requested)
-- **IDE**: VS Code · Claude Code · Android Studio
+</div>
 
-### Languages:
-- **Programming**: Python · JavaScript · TypeScript · Java · C++
-- **Computer**: HTML · CSS · JSON · YAML · XML · SQL · React
-- **Human**: English · Hindi
+<br>
 
-### Hobbies:
-- **Software**: Open Source · AI/ML · Web Development · Competitive Programming
-- **Building**: Personal Projects · Tech Blogs · Open Source Contributions
+## 🚀 About Me
 
-### Contact:
-- **Email**: divyanshutiwari337@gmail.com 
-- **Portfolio**: portfolio-hai-chi.vercel.app
-- **LinkedIn**: divyanshu-tiwari-42b156289
-- **GitHub**: Divyanshutiwari102
+- 🎓 B.Tech Computer Science student at **IILM University**, Greater Noida (Expected 2027)
+- 💻 Interned at **Bluestock Fintech** and **Code-B Solutions Pvt Ltd**
+- 🏆 Active on **LeetCode**, **HackerRank**, and **CodeChef**
+- 🌱 Currently exploring advanced data structures (Fenwick trees, segment trees with lazy propagation) and applying to SDE internships
+- ⚡ Fun fact: I build in Java/Spring Boot on the backend and love a clean, ATS-friendly LaTeX resume
 
-### GitHub Stats:
-- **Repos**: 28
-- **Stars**: 142
-- **Commits**: 1,245
-- **Followers**: 89
-- **Member Since**: Jan 2024
-- **Location**: Noida, UP
+<br>
 
-## Color Scheme
+## 🛠️ Tech Stack
 
-### Light Mode (`divya_light_mode.svg`)
-- Background: `#ffffff` (white)
-- Text: `#24292f` (dark gray)
-- Keywords: `#953800` (brown/orange)
-- Values: `#0a3069` (dark blue)
-- Accents: Various greens and reds for labels
+<div align="center">
 
-### Dark Mode (`divya_dark_mode.svg`)
-- Background: `#161b22` (dark blue/black)
-- Text: `#c9d1d9` (light gray)
-- Keywords: `#ffa657` (orange)
-- Values: `#a5d6ff` (light blue)
-- Accents: Greens and reds adjusted for dark background
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Notes
+</div>
 
-- Both SVG files use the same monospace font stack (Consolas, DejaVu Sans Mono, monospace)
-- The ASCII art header is **identical to your reference examples** - no modifications made
-- Cursor animation at the bottom provides a subtle terminal-like effect
-- Designed to work seamlessly with GitHub's automatic dark/light mode detection
-- **Remember to update all [FROM_RESUME_UPDATE_ME] placeholders with your actual resume information**
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Divyanshutiwari102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshutiwari102&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyanshutiwari102/Divyanshutiwari102/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyanshutiwari102/Divyanshutiwari102/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Divyanshutiwari102/Divyanshutiwari102/output/github-snake.svg">
+</picture>
+</div>
+
+<br>
+
+<div align="center">
+
+📫 Reach me at **divyanshutiwari337@gmail.com**
+
+</div>
