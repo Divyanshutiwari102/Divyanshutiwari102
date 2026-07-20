@@ -1,0 +1,79 @@
+<svg xmlns='http://www.w3.org/2000/svg' font-family="Consolas,'DejaVu Sans Mono',monospace" width='1500px' height='540px' font-size='16px'>
+<style>.key{fill:#ffa657;} .value{fill:#a5d6ff;} .cc{fill:#616e7f;} .add{fill:#3fb950;} .del{fill:#f85149;} text,tspan{white-space:pre;}</style>
+<rect width='1500px' height='540px' fill='#161b22' rx='15'/>
+
+<!-- ASCII Art Header (from reference) -->
+<text x='15' y='24' fill='#c9d1d9' font-size='13px'>
+<tspan x='15' y='24'>````.  ````````'''... .</tspan>
+<tspan x='15' y='38'>```'''. .``````'`'''.    .''.'.          ..'''''..'..</tspan>
+<tspan x='15' y='52'>......  .'''''''''..           "_1|}]_l,. .'''```'`'`''.</tspan>
+<tspan x='15' y='66'>     ..   .''''''.     .."~?)jYm*&amp;&amp;*kmcj]I..''''```''.'</tspan>
+<tspan x='15' y='80'>      ..   ...    '^i-]-fJYO*%$%%$$$$&amp;dXc{l`''''''''. .</tspan>
+<tspan x='15' y='94'>             `l_{(ruU0OOqq#$$$$$$$$@$$BMkQ[,.  `</tspan>
+<tspan x='15' y='108'>    ..... .:]xJOOLU0b#WW&amp;B$$$$$$$$$$$$@$B#Q(`  .       '</tspan>
+<tspan x='15' y='122'>         '+cLpdbadd#8@$$$$$$$$$$$$$$$$$$$hOX_,' ....</tspan>
+<tspan x='15' y='136'>      ';l{Cpdk*&amp;8WB$$$$$@%&amp;M#MW%@$$$$$$$$0OJ}^"</tspan>
+<tspan x='15' y='150'>...  ^1QnvOd#%B@@$$$$$BWadmOQLQ0mqqqpbM$MZav!,"'</tspan>
+<tspan x='15' y='164'>''.. ,tmapo8@$$$$$$$BWabwOLCJUYYCJUYYYXXzvnn0%W0}!:''</tspan>
+<tspan x='15' y='178'> .  ."1wM%@$$$$$$$$%MhpwZ0LJUYYXcvvuxjt(JU_,`..     .'''</tspan>
+<tspan x='15' y='192'>    '~v*@$$$$$$$@B&amp;abqm0QCUYXzcvnxxxxf/1?Jn,  ..  ..''``</tspan>
+<tspan x='15' y='206'>     ^xB@$$$$$$%*kdqwwmOUYUYYUYXzcvunnxt]1r'  .'''''''''</tspan>
+<tspan x='15' y='220'>''...^X%@$$$$@&amp;adqwwm0UUrYJUJLQJXzUYYCQLUx?`.. ..'''''''</tspan>
+<tspan x='15' y='234'> .''.;Z%$$$@%&amp;apwmmmmZOcUwZOmmmm0XYcXzczvj1:",I"  .''...</tspan>
+<tspan x='15' y='248'>     .{W$$@%#akdwZO0OmhmCabqdkbqmCJYJJJ0QY}.  '-~'</tspan>
+<tspan x='15' y='262'>      'Lkdh#W&amp;adpwZQJUUUvYJJJUUUUC0Yx/xZq01^;i~}i'</tspan>
+<tspan x='15' y='276'>       /ppbbkkqwqwZQCYzvurjrrxvzYUUUzn/fvt?:"'"+</tspan>
+<tspan x='15' y='290'>.     'Xw0w*kbpqpqmOQCJJUXXXYJ0Z0Zb*hmOut|},.^i^   ..</tspan>
+<tspan x='15' y='304'>`'.'. .nZmk*bhhpdpqmZmmmZOOOZwmpkaaaawb0Ynt?^"' ........</tspan>
+<tspan x='15' y='318'>```''' l0mZmho*kdpqqqpppqwmZZmZZwpdwwwLYQLX|`  .......''</tspan>
+<tspan x='15' y='332'>```'''. ?LmZZoWM*hbpdpppqwdo8&amp;*ahkdpwZLYUYv|`    .......</tspan>
+<tspan x='15' y='346'> .....   IcCZ#B%&amp;*okkbbdqwoMMM#hd0CJCb*bo0r(^    .......</tspan>
+<tspan x='15' y='360'>`'.       !Lpa8B%W#*oa**kpbqZmqmOCYcczXwbZnf^     .....'</tspan>
+<tspan x='15' y='374'>^^^`'.     iLpa8%&amp;&amp;W&amp;&amp;&amp;W#oodmmqbh*okpLunYCzn"    .......</tspan>
+<tspan x='15' y='388'>^^^^``''..  +mbM&amp;8%BB@BBBBBMdZ0QOwwZ0cnvJLL/.  .........</tspan>
+<tspan x='15' y='402'>^``'.        rpa8BB@$$$$$$$BMkwO0OOZLzuYOwL!    ........</tspan>
+<tspan x='15' y='416'>'.           lZk8$$$$$$$$$$$$B8&amp;MM&amp;8#kmwpm{.         ...</tspan>
+<tspan x='15' y='430'>             .zda8@$$$$$$$$$$$$$$$$$$$B8Ma/           ...</tspan>
+<tspan x='15' y='444'>    ..        |qk*W%@$$$$$$$$$$$$$$$$$$#r`'.</tspan>
+<tspan x='15' y='458'>'.''.. .      1wko#&amp;B@@$$$$$$$$$$$$$$&amp;0{:`,!"</tspan>
+<tspan x='15' y='472'>````. .'. .`^"jqba*W&amp;B@$$$$$$$$$$$$WO/_!I,,^`'.</tspan>
+<tspan x='15' y='486'>.'''    '`,!~)JwbaoM&amp;%@$$$$$$$$$@*U)_~~!I;::I!!l"'.</tspan>
+</text>
+
+<!-- Personal Info Section -->
+<text><tspan x='560' y='30' fill='#c9d1d9'>divyanshutiwari102@user</tspan><tspan class='cc'> -——————————————————————————————————-</tspan></text>
+<text><tspan x='560' y='50'><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Windows 11 · Linux · Android</tspan></tspan></text>
+<text><tspan x='560' y='70'><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................... </tspan><tspan class="value">IILM University</tspan></tspan></text>
+<text><tspan x='560' y='90'><tspan class="cc">. </tspan><tspan class="key">Host Kernel</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............ </tspan><tspan class="value">Software Developer</tspan></tspan></text>
+<text><tspan x='560' y='110'><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">VS Code · Claude Code · Android Studio</tspan></tspan></text>
+<text><tspan x='560' y='130' class='cc'>. </tspan></text>
+
+<!-- Languages Section -->
+<text><tspan x='560' y='150'><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan><tspan class="cc">:</tspan><tspan class="cc"> ... </tspan><tspan class="value">Python · JavaScript · TypeScript · Java · C++</tspan></tspan></text>
+<text><tspan x='560' y='170'><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan><tspan class="cc">:</tspan><tspan class="cc"> ...... </tspan><tspan class="value">HTML · CSS · JSON · YAML · XML · SQL · React</tspan></tspan></text>
+<text><tspan x='560' y='190'><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Human</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">English · Hindi</tspan></tspan></text>
+<text><tspan x='560' y='210' class='cc'>. </tspan></text>
+
+<!-- Hobbies Section -->
+<text><tspan x='560' y='230'><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan><tspan class="cc">:</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Open Source · AI/ML · Web Development · Competitive Programming</tspan></tspan></text>
+<text><tspan x='560' y='250'><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Building</tspan><tspan class="cc">:</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Personal Projects · Tech Blogs · Open Source Contributions</tspan></tspan></text>
+<text><tspan x='560' y='270' class='cc'>. </tspan></text>
+
+<!-- Contact Section -->
+<text><tspan x='560' y='290' fill='#c9d1d9'>- Contact</tspan><tspan class='cc'> -—————————————————————————————————————-</tspan></text>
+<text><tspan x='560' y='310'><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="cc">:</tspan><tspan class="cc"> .................. </tspan><tspan class="value">divyanshutiwari337@gmail.com</tspan></tspan></text>
+<text><tspan x='560' y='330'><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">portfolio-hai-chi.vercel.app</tspan></tspan></text>
+<text><tspan x='560' y='350'><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">divyanshu-tiwari-42b156289</tspan></tspan></text>
+<text><tspan x='560' y='370'><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">Divyanshutiwari102</tspan></tspan></text>
+<text><tspan x='560' y='390' class='cc'>. </tspan></text>
+
+<!-- GitHub Stats Section -->
+<text><tspan x='560' y='410' fill='#c9d1d9'>- GitHub Stats</tspan><tspan class='cc'> -————————————————————————————————-</tspan></text>
+<text><tspan x='560' y='430'><tspan class='cc'>. </tspan><tspan class='key'>Repos</tspan><tspan class='cc'> ..... </tspan><tspan class='value'>40+</tspan><tspan class='cc'>  |  </tspan><tspan class='key'>Stars</tspan><tspan class='cc'> ..... </tspan><tspan class='value'>...</tspan></tspan></text>
+<text><tspan x='560' y='450'><tspan class='cc'>. </tspan><tspan class='key'>Commits</tspan><tspan class='cc'> ... </tspan><tspan class='value'>2,220</tspan><tspan class='cc'>  |  </tspan><tspan class='key'>Followers</tspan><tspan class='cc'> .... </tspan><tspan class='value'>..</tspan></tspan></text>
+<text><tspan x='560' y='470'><tspan class='cc'>. </tspan><tspan class='key'>Member Since</tspan><tspan class='cc'> ... </tspan><tspan class='value'>March 2023</tspan><tspan class='cc'>  |  </tspan><tspan class='key'>Location</tspan><tspan class='cc'>...</tspan><tspan class='value'>Noida, UP</tspan></tspan></text>
+
+<!-- Cursor Animation -->
+<text x='560' y='518' fill='#a371f7'>divyanshutiwari102@github</text><text x='870' y='518' fill='#c9d1d9'>:~$</text>
+<rect x='910' y='505' width='10' height='17' fill='#a371f7'><animate attributeName='opacity' values='1;1;0;0' dur='1.1s' keyTimes='0;0.5;0.5;1' repeatCount='indefinite'/></rect>
+</svg>
